@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+*.ipch
+*.ilk
+*.pdb
+*.db
+*.log
+*.tlog
+*.recipe
+*.txt
+*.idb
+
+*.filters
+*.user
+andrewGachiGame/.vs/MTK_API/v16/.suo
